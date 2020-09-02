@@ -1,10 +1,10 @@
 
 # 데이터 분석의 힘 (2020/2/6 ~ 2020/2/12) 
-- 정환님께 선물받았다. 이 책을 읽으면서 도움이 많이 되었다고 하셨다. :)
+- 네웹 인턴하면서 사수분께 선물받았다. 이 책을 읽으면서 도움이 많이 되었다고 하셨다. :)
 - 읽으면서 의미있는 부분이나 느낀점 정리해보고 싶다. 
 
 <p align="center">
-  <img width="250" height="350" src="https://ifh.cc/g/9o2dW.jpg">
+  <img width="250" height="350" src="https://user-images.githubusercontent.com/45617225/91927122-b381a100-ed13-11ea-9b92-44185ddc4975.png">
 </p>
 
 ## 공부하고 싶었던 점 
